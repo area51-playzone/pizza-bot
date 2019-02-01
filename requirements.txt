@@ -10,7 +10,11 @@ jsonschema==2.6.0
 matplotlib==2.1.0
 requests==2.18.4
 tqdm==4.19.5
-numpy==1.14.0
+numpy==1.13.3
 simplejson==3.13.2
 cloudpickle==0.5.2
 msgpack-python==0.5.4
+spacy==2.0.11
+scikit-learn==0.19.1
+scipy==1.1.0
+sklearn-crfsuite==0.3.6
