@@ -1,4 +1,5 @@
 rasa_nlu==0.12.3
+rasa_core==0.9.8
 gevent==1.2.2
 klein==17.10.0
 hyperlink==17.3.1
